@@ -2,7 +2,7 @@
   "name": "shadow",
   "version": "0.0.1",
   "description": "feed manager",
-  "main": "shadow",
+  "bin": "shadow",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
