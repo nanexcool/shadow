@@ -9,6 +9,7 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
+    "preferences": "^0.2.1",
     "request": "^2.81.0",
     "request-promise-native": "^1.0.4",
     "web3": "^0.20.1"
